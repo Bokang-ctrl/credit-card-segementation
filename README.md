@@ -5,9 +5,13 @@ This repository contains a dataset and Jupyter Notebook for credit card segmenta
 
 # Notebook Content
 Data Cleaning: The notebook begins with data cleaning steps to handle missing values, outliers, and other inconsistencies in the credit card dataset.
+
 Data Scaling: Following data cleaning, the dataset is scaled using standardization or normalization techniques to ensure uniformity in feature scales.
+
 Principal Component Analysis (PCA): PCA is applied to reduce the dimensionality of the dataset while preserving its variance. This step helps in visualizing the data and improving clustering performance.
+
 KMeans Clustering: The notebook trains a KMeans clustering model on the preprocessed dataset to group credit card users into distinct segments based on their spending behavior.
+
 DBSCAN Clustering: Additionally, DBSCAN clustering is employed to identify dense regions in the data and classify data points as core points, border points, or outliers.
 
 # Methodology
