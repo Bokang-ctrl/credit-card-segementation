@@ -16,8 +16,11 @@ DBSCAN Clustering: Additionally, DBSCAN clustering is employed to identify dense
 
 # Methodology
 Data Cleaning: Handle missing values, outliers, and data inconsistencies to prepare the dataset for clustering analysis.
+
 Data Scaling: Scale the features of the dataset to ensure uniformity in feature scales, enhancing the performance of clustering algorithms.
+
 Principal Component Analysis (PCA): Reduce the dimensionality of the dataset using PCA to improve computational efficiency and visualization.
+
 Clustering Algorithms: Train KMeans and DBSCAN clustering models to segment credit card users based on their spending behavior.
 
 # Note
