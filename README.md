@@ -1,4 +1,4 @@
-## credit-card-segementation
+## credit-card-segmentation
 
 # Overview
 This repository contains a dataset and Jupyter Notebook for credit card segmentation using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) and KMeans clustering algorithms. The project aims to segment credit card users based on their spending behavior, allowing for targeted marketing strategies and personalized customer experiences.
